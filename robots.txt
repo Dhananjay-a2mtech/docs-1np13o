@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ydmt1q.plcwin.xyz/sitemap.xml
